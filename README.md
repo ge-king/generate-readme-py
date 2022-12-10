@@ -1,8 +1,8 @@
-# generate_readme
+# generate-readme-py
 
 This is a Python project containing the following files:
 
-- generate_readme.py
+- generate-readme.py
 
 ## Dependencies
 
@@ -19,10 +19,13 @@ pip install -r requirements.txt
 To run the project, use the following command:
 
 ```
-python generate_readme.py
+python generate-readme.py
 ```
 
 ## Features
 
 This project includes the following features:
 
+## To-do
+
+Add auto detection of project features.
